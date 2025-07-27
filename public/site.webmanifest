@@ -1,0 +1,28 @@
+{
+  "theme_color": "#f8f8f8",
+  "background_color": "#171717",
+  "icons": [
+    {
+      "purpose": "maskable",
+      "sizes": "512x512",
+      "src": "icon512_maskable.png",
+      "type": "image/png"
+    },
+    {
+      "purpose": "any",
+      "sizes": "512x512",
+      "src": "icon512_rounded.png",
+      "type": "image/png"
+    }
+  ],
+  "orientation": "any",
+  "display": "standalone",
+  "dir": "auto",
+  "lang": "en-IN",
+  "name": "Tailwind Dictionary",
+  "short_name": "TW Dictionary",
+  "start_url": "https://tailwinddictionary.vercel.app/",
+  "scope": "https://tailwinddictionary.vercel.app/",
+  "description": "An offline dictionary app styled with Tailwind CSS",
+  "id": "https://tailwinddictionary.vercel.app/"
+}
