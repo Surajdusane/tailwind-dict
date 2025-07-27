@@ -21,8 +21,8 @@
   "lang": "en-IN",
   "name": "Tailwind Dictionary",
   "short_name": "TW Dictionary",
-  "start_url": "https://unmaskme.online",
-  "scope": "https://unmaskme.online",
+  "start_url": "https://tailwinddictionary.vercel.app/",
+  "scope": "https://tailwinddictionary.vercel.app/",
   "description": "An offline dictionary app styled with Tailwind CSS",
-  "id": "https://unmaskme.online"
+  "id": "https://tailwinddictionary.vercel.app/"
 }
